@@ -33,5 +33,4 @@
 </a>
 </p>
 
-<h3>Visit my site</h3>
-<a href="https://mxjoss.com/">mxjoss.com</a>
+
