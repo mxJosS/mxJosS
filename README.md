@@ -33,7 +33,5 @@
 </a>
 </p>
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <h3>Visit my site</h3>
 <a href="https://mxjoss.com/">mxjoss.com</a>
